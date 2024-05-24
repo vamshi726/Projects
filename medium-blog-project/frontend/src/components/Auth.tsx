@@ -21,7 +21,6 @@ async function sendRequest() {
       );
 
       const jwt = response.data.jwt;
-      console.log(jwt);
       
       localStorage.setItem("token", jwt);
       navigate("/blogs");
