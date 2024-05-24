@@ -1,3 +1,3 @@
-export const BACKEND_URL = "https://backend.vamshimuluguri.workers.dev";
+export const BACKEND_URL = "https://backend2.vamshimuluguri.workers.dev";
 
 
